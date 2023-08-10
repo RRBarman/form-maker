@@ -9,7 +9,7 @@ import { nanoid } from "nanoid";
 
 const btns = [
   { id: nanoid(), text: "Gallery", icon: "bi bi-images", url: "#gallery" },
-  { id: nanoid(), text: "Source code", icon: "bi bi-github", url: "https://www.github.com/bkfan1/form-maker" },
+  { id: nanoid(), text: "Source code", icon: "bi bi-github", url: "https://www.github.com/rrbarman/form-maker" },
 
   
 ];
