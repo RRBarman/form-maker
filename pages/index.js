@@ -40,7 +40,7 @@ export default function Home() {
             </menu>
           </header>
 
-          <menu className="flex self-center gap-4 py-4">
+  {/*  <menu className="flex self-center gap-4 py-4">
             {btns.map((btn)=>
             <Link key={btn.id} href={btn.url}>
               <button className="ease-in-out duration-100 flex gap-1 text-white hover:opacity-70">
@@ -91,7 +91,7 @@ export default function Home() {
                 ""
               )}
             </Modal>
-          </div>
+          </div>*/}
         </section>
       </main>
     </>
