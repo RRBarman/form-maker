@@ -16,7 +16,7 @@ A fullstack online form maker app with authentication system, created with NodeJ
 
 ## Live Demo:
 
-https://form-maker.vercel.app
+https://form-maker-six.vercel.app/register
 
 ## Gallery:
 
