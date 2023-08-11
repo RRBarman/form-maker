@@ -2,9 +2,6 @@
 
 A fullstack online form maker app with authentication system, created with NodeJS & TailwindCSS.
 
-<br/>
- <img src="https://i.imgur.com/w8pg1aN.png" alt="App preview"/>
- <br/>
 
 ## Key features
 
